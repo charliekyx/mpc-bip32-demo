@@ -30,7 +30,7 @@ This project demonstrates how to perform Distributed Key Generation (DKG), Hiera
 
 1.  **Enter project directory**:
     ```bash
-    cd cggmp24-bip32
+    cd cggmp24-TSS-HD-wallet-demo
     ```
 
 2.  **Run demo**:
@@ -113,7 +113,7 @@ The program automatically executes the following steps upon startup:
 
 1.  **进入项目目录**:
     ```bash
-    cd cggmp24-bip32
+    cd cggmp24-TSS-HD-wallet-demo
     ```
 
 2.  **运行演示**:
